@@ -1,0 +1,15 @@
+github is a version control system 
+
+
+great way to keep track of progress 
+A way to collabreate with others 
+Ability to save our process and go back earlier point in our projects 
+
+
+Use to
+
+showcase the work
+To buils tools which is helpful to other devs 
+
+contibutes to other projects by reporting bugs . fixing bugs , adding new features 
+
